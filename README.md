@@ -3,8 +3,8 @@ Business Summary
 Apple Inc. is one of the leading technology companies, selling products such as iPhones, iPads, MacBooks, and Wearables( like wristwatches). This analysis aims to examine sales trends, identify key revenue drivers, and provide actionable insights to optimize sales strategy.
 
 Key Objectives:
-Identify top-selling products and regions.
-Provide recommendations for maximizing revenue.
++Identify top-selling products and regions.
++Provide recommendations for maximizing revenue.
 
 Data Source
 The dataset used for this analysis was obtained from Kaggle and contains:
